@@ -1,0 +1,17 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "messi2.arreferenceimage"
+    },
+    {
+      "filename" : "messiPSGPhoto.arreferenceimage"
+    },
+    {
+      "filename" : "wallImage.arreferenceimage"
+    }
+  ]
+}

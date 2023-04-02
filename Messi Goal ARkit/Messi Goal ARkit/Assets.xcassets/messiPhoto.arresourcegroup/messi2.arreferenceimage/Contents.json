@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "messi2.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "width" : 0.85000000000000009
+  }
+}
